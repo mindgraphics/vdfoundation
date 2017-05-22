@@ -25,8 +25,7 @@
 	    	<meta name="theme-color" content="#121212">
 	    <?php } ?>
 		<!-- Typography -->	
-		<link href='https://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
-		<link href='https://fonts.googleapis.com/css?family=Average+Sans' rel='stylesheet' type='text/css'>
+		
 		<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
 
 		<?php wp_head(); ?>
